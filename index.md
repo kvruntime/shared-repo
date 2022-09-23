@@ -1,4 +1,3 @@
-# Shared Repo
 ## Purpose
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos pariatur nulla unde incidunt id ipsa doloremque fuga. Qui veniam magni necessitatibus ducimus excepturi id inventore, ea et nesciunt dicta voluptatibus.
