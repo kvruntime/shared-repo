@@ -10,5 +10,4 @@ _Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit deleniti numquam 
 consequuntur autem mollitia ducimus maxime velit modi laboriosam! Dolores qui provident hic praesentium? Aliquam, alias._
 
 ## Hotfix
-
-Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet. [fixing bugs here]
